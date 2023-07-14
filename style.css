@@ -1,0 +1,26 @@
+body{
+    background:lightskyblue;
+}
+#heading{
+    height: 75px;
+    
+    width: 600px;
+    background-color:plum;
+    color: rgb(211, 9, 9);
+    margin: auto;
+    text-align: center;
+    margin-top: 55px;
+    border-top-left-radius: 70%;
+    border-bottom-right-radius: 70%;
+    border: 2px solid black;
+
+}
+form{
+    background-color: rgb(16, 17, 17);
+    color: azure;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    margin-top: 70px;
+    padding-right: 30px;
+}
